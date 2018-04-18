@@ -2,9 +2,10 @@ Communication Cable
 =========
 
 ![Communication Cable](CommunicationCable.png)  
-The Communication Cable is the hardware connection for communication with [Uart WiFi Board](https://github.com/NaoNaoMe/Uart-WiFi-Board). 
+The Communication Cable is the hardware connection for communication with [Uart WiFi Board](https://github.com/NaoNaoMe/Uart-WiFi-Board).  
 
 Wiring diagram
+
 | PH Connector  | XH Connector  |
 | ------------- | ------------- |
 | 1             | 1             |
